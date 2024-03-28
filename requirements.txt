@@ -13,3 +13,4 @@ pytz
 alibabacloud_ocr_api20210707==2.0.4
 pyzbar
 qrcode
+websockets
