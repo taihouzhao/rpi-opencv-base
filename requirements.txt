@@ -16,3 +16,4 @@ qrcode
 websockets
 dashscope==1.16.0
 volcengine
+edge_tts
